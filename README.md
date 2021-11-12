@@ -5,5 +5,5 @@ The .py files containis the code to create the normal distribution and the png f
 
 Requirements
 Pythoon: 3.0
-something
-something
+numpyvx.x (?)
+matplotlibx.x (?)
